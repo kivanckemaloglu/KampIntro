@@ -6,6 +6,8 @@ namespace KampIntro
     {
         static void Main(string[] args)
         {
+
+            // Git Test
             //Type safetyt - tip güvenliği
             //Do not repeat yourself - Kendini tekrar etme. 
             string kategoriEtiketi = "Kategori";
